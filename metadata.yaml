@@ -1,0 +1,32 @@
+_repo: The-Lost-Treasure-of-TrevlynA-Story-of-the-Days-of-the-Gunpowder-Plot_16654
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Everett-Green, Evelyn
+    aliases:
+    - Adair, Cecil
+    - Everett-Green, E. (Evelyn)
+    - Dare, Evelyn
+    - Ward, E.
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '4888'
+    url: http://www.gutenberg.org/2009/agents/4888
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2005-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gunpowder Plot, 1605 -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Lost Treasure of Trevlyn: A Story of the Days of the Gunpowder Plot'
+url: http://www.gutenberg.org/ebooks/16654
